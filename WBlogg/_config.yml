@@ -1,7 +1,7 @@
-title:              "WBlogg"
-email:              "joakimwidell@hotmail.com"
-description:        "A blog about the cloud"
-author:             "Joakim Widell"
+title:              WBlogg
+email:              joakimwidell@hotmail.com
+description:        A blog about the cloud
+author:             Joakim Widell
 baseurl:            "/WBlogg"
 url:                "https://joakimwidell.github.io
 
